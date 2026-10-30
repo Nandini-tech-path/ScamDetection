@@ -1,0 +1,233 @@
+{
+  "best_model_name": "Hybrid: TF-IDF + Handcrafted + Cost-Tuned LR",
+  "validation_metrics": [
+    {
+      "model_name": "Baseline: TF-IDF + Logistic Regression",
+      "accuracy": 0.9719387755102041,
+      "scam_recall": 0.8,
+      "scam_precision": 0.975609756097561,
+      "scam_f1": 0.8791208791208791,
+      "legit_recall": 0.9970760233918129,
+      "legit_precision": 0.9715099715099715,
+      "macro_f1": 0.9316239316239316,
+      "roc_auc": 0.993077485380117,
+      "false_positive_rate": 0.0029239766081871343,
+      "confusion_matrix": {
+        "true_negatives": 682,
+        "false_positives": 2,
+        "false_negatives": 20,
+        "true_positives": 80
+      }
+    },
+    {
+      "model_name": "Baseline: TF-IDF + Naive Bayes",
+      "accuracy": 0.9834183673469388,
+      "scam_recall": 0.9,
+      "scam_precision": 0.967741935483871,
+      "scam_f1": 0.9326424870466321,
+      "legit_recall": 0.9956140350877193,
+      "legit_precision": 0.9855282199710564,
+      "macro_f1": 0.9615939707960433,
+      "roc_auc": 0.9936476608187135,
+      "false_positive_rate": 0.0043859649122807015,
+      "confusion_matrix": {
+        "true_negatives": 681,
+        "false_positives": 3,
+        "false_negatives": 10,
+        "true_positives": 90
+      }
+    },
+    {
+      "model_name": "Hybrid: TF-IDF + Handcrafted + Logistic Regression",
+      "accuracy": 0.9744897959183674,
+      "scam_recall": 0.83,
+      "scam_precision": 0.9651162790697675,
+      "scam_f1": 0.8924731182795699,
+      "legit_recall": 0.9956140350877193,
+      "legit_precision": 0.9756446991404012,
+      "macro_f1": 0.9390006691253132,
+      "roc_auc": 0.9919444444444444,
+      "false_positive_rate": 0.0043859649122807015,
+      "confusion_matrix": {
+        "true_negatives": 681,
+        "false_positives": 3,
+        "false_negatives": 17,
+        "true_positives": 83
+      }
+    },
+    {
+      "model_name": "Hybrid: TF-IDF + Handcrafted + Cost-Tuned LR",
+      "accuracy": 0.9808673469387755,
+      "scam_recall": 0.89,
+      "scam_precision": 0.956989247311828,
+      "scam_f1": 0.9222797927461139,
+      "legit_recall": 0.9941520467836257,
+      "legit_precision": 0.984081041968162,
+      "macro_f1": 0.9556853509185115,
+      "roc_auc": 0.9917690058479531,
+      "false_positive_rate": 0.005847953216374269,
+      "confusion_matrix": {
+        "true_negatives": 680,
+        "false_positives": 4,
+        "false_negatives": 11,
+        "true_positives": 89
+      }
+    },
+    {
+      "model_name": "Hybrid: TF-IDF + Handcrafted + Random Forest",
+      "accuracy": 0.9719387755102041,
+      "scam_recall": 0.78,
+      "scam_precision": 1.0,
+      "scam_f1": 0.8764044943820225,
+      "legit_recall": 1.0,
+      "legit_precision": 0.9688385269121813,
+      "macro_f1": 0.9302885781262631,
+      "roc_auc": 0.9894225146198831,
+      "false_positive_rate": 0.0,
+      "confusion_matrix": {
+        "true_negatives": 684,
+        "false_positives": 0,
+        "false_negatives": 22,
+        "true_positives": 78
+      }
+    }
+  ],
+  "test_metrics": [
+    {
+      "model_name": "Baseline: TF-IDF + Logistic Regression",
+      "accuracy": 0.9795918367346939,
+      "scam_recall": 0.85,
+      "scam_precision": 0.9883720930232558,
+      "scam_f1": 0.9139784946236559,
+      "legit_recall": 0.9985380116959064,
+      "legit_precision": 0.9785100286532952,
+      "macro_f1": 0.9512005353002505,
+      "roc_auc": 0.9963011695906433,
+      "false_positive_rate": 0.0014619883040935672,
+      "confusion_matrix": {
+        "true_negatives": 683,
+        "false_positives": 1,
+        "false_negatives": 15,
+        "true_positives": 85
+      }
+    },
+    {
+      "model_name": "Baseline: TF-IDF + Naive Bayes",
+      "accuracy": 0.9846938775510204,
+      "scam_recall": 0.91,
+      "scam_precision": 0.9680851063829787,
+      "scam_f1": 0.9381443298969072,
+      "legit_recall": 0.9956140350877193,
+      "legit_precision": 0.9869565217391304,
+      "macro_f1": 0.9647053527213794,
+      "roc_auc": 0.9946637426900584,
+      "false_positive_rate": 0.0043859649122807015,
+      "confusion_matrix": {
+        "true_negatives": 681,
+        "false_positives": 3,
+        "false_negatives": 9,
+        "true_positives": 91
+      }
+    },
+    {
+      "model_name": "Hybrid: TF-IDF + Handcrafted + Logistic Regression",
+      "accuracy": 0.9757653061224489,
+      "scam_recall": 0.83,
+      "scam_precision": 0.9764705882352941,
+      "scam_f1": 0.8972972972972973,
+      "legit_recall": 0.9970760233918129,
+      "legit_precision": 0.9756795422031473,
+      "macro_f1": 0.9417795235582654,
+      "roc_auc": 0.9957748538011697,
+      "false_positive_rate": 0.0029239766081871343,
+      "confusion_matrix": {
+        "true_negatives": 682,
+        "false_positives": 2,
+        "false_negatives": 17,
+        "true_positives": 83
+      }
+    },
+    {
+      "model_name": "Hybrid: TF-IDF + Handcrafted + Cost-Tuned LR",
+      "accuracy": 0.9846938775510204,
+      "scam_recall": 0.93,
+      "scam_precision": 0.9489795918367347,
+      "scam_f1": 0.9393939393939394,
+      "legit_recall": 0.9926900584795322,
+      "legit_precision": 0.9897959183673469,
+      "macro_f1": 0.9653174076531741,
+      "roc_auc": 0.9956140350877193,
+      "false_positive_rate": 0.007309941520467836,
+      "confusion_matrix": {
+        "true_negatives": 679,
+        "false_positives": 5,
+        "false_negatives": 7,
+        "true_positives": 93
+      }
+    },
+    {
+      "model_name": "Hybrid: TF-IDF + Handcrafted + Random Forest",
+      "accuracy": 0.9770408163265306,
+      "scam_recall": 0.82,
+      "scam_precision": 1.0,
+      "scam_f1": 0.9010989010989011,
+      "legit_recall": 1.0,
+      "legit_precision": 0.9743589743589743,
+      "macro_f1": 0.9440559440559441,
+      "roc_auc": 0.9941228070175439,
+      "false_positive_rate": 0.0,
+      "confusion_matrix": {
+        "true_negatives": 684,
+        "false_positives": 0,
+        "false_negatives": 18,
+        "true_positives": 82
+      }
+    }
+  ],
+  "test_error_analysis": {
+    "false_positives": [
+      {
+        "text": "Talk With Yourself Atleast Once In A Day...!!! Otherwise You Will Miss Your Best FRIEND In This WORLD...!!! -Shakespeare- SHESIL  &lt;#&gt;",
+        "scam_prob": 0.5610059981338152
+      },
+      {
+        "text": "JADE ITS PAUL. Y DIDN\u0092T U TXT ME? DO U REMEMBER ME FROM BARMED? I WANT 2 TALK 2 U! TXT ME",
+        "scam_prob": 0.8127485849525854
+      },
+      {
+        "text": "WhatsApp code: 492-108. You can also tap on the link to verify your phone number.",
+        "scam_prob": 0.7851290328459475
+      },
+      {
+        "text": "CERI U REBEL! SWEET DREAMZ ME LITTLE BUDDY!! C YA 2MORO! WHO NEEDS BLOKES",
+        "scam_prob": 0.611460896938554
+      },
+      {
+        "text": "\"Si.como no?!listened2the plaid album-quite gd&the new air1 which is hilarious-also bought\u0094braindance\u0094a comp.ofstuff on aphex\u0092s ;abel,u hav2hear it!c u sn xxxx\"",
+        "scam_prob": 0.5111239489947748
+      }
+    ],
+    "false_negatives": [
+      {
+        "text": "LIFE has never been this much fun and great until you came in. You made it truly special for me. I won't forget you! enjoy @ one gbp/sms",
+        "scam_prob": 0.20156902674143595
+      },
+      {
+        "text": "ROMCAPspam Everyone around should be responding well to your presence since you are so warm and outgoing. You are bringing in a real breath of sunshine.",
+        "scam_prob": 0.07078368180522972
+      },
+      {
+        "text": "ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O \u00a3250 3 WANT \u00a3800",
+        "scam_prob": 0.27612549654362206
+      },
+      {
+        "text": "SMS. ac JSco: Energy is high, but u may not know where 2channel it. 2day ur leadership skills r strong. Psychic? Reply ANS w/question. End? Reply END JSCO",
+        "scam_prob": 0.47856384505196353
+      },
+      {
+        "text": "thesmszone.com lets you send free anonymous and masked messages..im sending this message from there..do you see the potential for abuse???",
+        "scam_prob": 0.4009218030863601
+      }
+    ]
+  }
+}

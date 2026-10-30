@@ -1,0 +1,83 @@
+text,label,language,source
+"Dear customer, your SBI bank account has been suspended due to pending KYC. Click http://bit.ly/sbi-kyc-update to update your PAN and Aadhaar immediately.",scam,en,synthetic_india
+"Your electricity power supply will be disconnected tonight at 9:30 PM due to unpaid bill of Rs 4,850. Call electricity officer immediately at 9876543210.",scam,en,synthetic_india
+"Congratulations! Your mobile number has been selected as the winner of Rs 25,00,000 in KBC Lucky Draw. Send OTP to claim prize now.",scam,en,synthetic_india
+"Part-time job offer: Earn Rs 3,000 to Rs 8,000 daily by liking YouTube videos. Work from home 1 hour daily. WhatsApp us at +919123456780.",scam,en,synthetic_india
+"Dear user, your SIM card KYC is incomplete. Your outgoing calls will be blocked in 24 hours. Call customer care 8888899999 to verify.",scam,en,synthetic_india
+"Income Tax Refund of Rs 15,490 has been approved. Please confirm your bank account number and UPI PIN at http://tinyurl.com/incometax-refund-gov.",scam,en,synthetic_india
+"URGENT: Your HDFC credit card has been temporarily blocked due to suspicious activity. Verify your CVV and OTP here: http://hdfc-security-auth.cc",scam,en,synthetic_india
+"Dear user, Rs 50,000 pre-approved loan is waiting for you with 0% interest. No documentation required. Apply now: http://bit.ly/instant-loan-50k",scam,en,synthetic_india
+"You have received a cashback of Rs 1,999 on PhonePe. Click here to claim directly into your UPI account: http://rb.gy/phonepe-reward-claim",scam,en,synthetic_india
+"TRAI Notice: Your Aadhaar has been linked with 9 illegal SIM cards. Immediate police action will be taken unless you call 9988776655.",scam,en,synthetic_india
+"Hi Mom, I lost my phone and wallet. This is my new temporary number. Please send Rs 10,000 urgently via GPay to this number.",scam,en,synthetic_india
+"Amazon Customer Care: You won a free iPhone 15 Pro! Pay delivery fee of Rs 499 to dispatch your parcel. Visit http://tinyurl.com/claim-iphone15",scam,en,synthetic_india
+"Dear customer, your Netflix subscription expired. Update your credit card details immediately to avoid account termination: http://ow.ly/netflix-billing",scam,en,synthetic_india
+"Your courier parcel #IN-90823 could not be delivered due to wrong address. Pay Rs 25 re-delivery fee at http://cutt.ly/india-post-update",scam,en,synthetic_india
+"VIP Crypto Alert: Invest Rs 5,000 today and receive guaranteed return of Rs 50,000 in 3 days. Join Telegram VIP channel: https://t.me/crypto_wealth_signals",scam,en,synthetic_india
+"Federal Express: You have a package held in customs. Please verify your identity and pay customs duty of $45 at http://fedex-customs-clear.com",scam,en,synthetic_global
+"Your Apple ID has been locked for security reasons. Enter your password and billing info to unlock: http://apple-id-verify-portal.net",scam,en,synthetic_global
+"Urgent notice: Your gas cylinder connection is pending biometric verification. Update details within 12 hours to prevent gas stoppage: 9811223344",scam,en,synthetic_india
+"Exclusive Diwali bumper offer! Spin the lucky wheel and win cash prizes up to Rs 100,000. Claim here: http://bit.ly/diwali-lucky-cash",scam,en,synthetic_india
+"Alert: Unrecognized login attempt from Russia on your Instagram account. Reset your password immediately: http://tinyurl.com/ig-security-login",scam,en,synthetic_global
+"Traffic Police Notice: Pending e-Challan fine of Rs 1,000 on your vehicle. Download mParivahan APK to pay before court warrant: http://bit.ly/echallan-pay-apk",scam,en,synthetic_india
+"BSNL Alert: Your document verification failed. Your mobile number will be deactivated by midnight. Contact nodal officer at 9400012345 immediately.",scam,en,synthetic_india
+"CBI Digital Arrest Warrant issued against your PAN for money laundering. Connect immediately on Skype video call or face immediate arrest.",scam,en,synthetic_india
+"Dear ICICI user, reward points worth Rs 9,850 are expiring today. Redeem to cash instantly by entering Netbanking password: http://tinyurl.com/icici-reward-cash",scam,en,synthetic_india
+"Congratulations! Selected for Flipkart Work-from-Home product review agent. Earn Rs 40,000/month. Telegram @flipkart_hr_recruiter",scam,en,synthetic_india
+"Dear customer, your LPG gas subsidy of Rs 3,450 is on hold. Update bank details at http://bit.ly/lpg-subsidy-update",scam,en,synthetic_india
+"State Bank Alert: Your YONO account has been blocked. Click http://yono-sbi-login.top to restore access.",scam,en,synthetic_india
+"Your credit score has dropped to 520. Get instant pre-approved credit card with 5 Lakh limit, zero fee: http://cutt.ly/preapproved-card",scam,en,synthetic_india
+"Urgent: Flight booking error. Pay cancellation insurance fee of Rs 750 immediately to avoid total ticket forfeiture: http://tinyurl.com/air-ticket-fix",scam,en,synthetic_india
+"DHL Delivery: Your parcel is on hold due to missing house number. Confirm delivery address and pay $1.99 handling fee: http://dhl-address-confirm.info",scam,en,synthetic_global
+"Hey, are we still meeting for lunch today at 1 PM?",legitimate,en,synthetic_legit
+"Your Swiggy order has been picked up by the delivery partner and is on the way.",legitimate,en,synthetic_legit
+"Your OTP for logging into HDFC NetBanking is 482910. Do not share this OTP with anyone, including bank staff.",legitimate,en,synthetic_legit
+"Dear student, tomorrow's AI PBL lab session will begin promptly at 10:00 AM in Lab 3.",legitimate,en,synthetic_legit
+"Your order #1234 has been delivered. Thank you for shopping with us!",legitimate,en,synthetic_legit
+"Your Amazon order #402-892314-11234 has been dispatched and will arrive by 5 PM today.",legitimate,en,synthetic_legit
+"Hi dad, I am reaching home by 8 PM tonight. Please keep dinner ready.",legitimate,en,synthetic_legit
+"Can you send me 100 rs for lunch via UPI? I will pay you back in evening.",legitimate,en,synthetic_legit
+"Meeting scheduled for 3pm tomorrow in conference room B. Please bring your laptop.",legitimate,en,synthetic_legit
+"Urgent: please bring the project files and hard drive to class tomorrow morning.",legitimate,en,synthetic_legit
+"Hello, congratulations on your graduation! Wishing you all the best in your career.",legitimate,en,synthetic_legit
+"Your salary of Rs 50,000 has been credited to your bank account A/C XX4921 on 01-OCT. Available balance: Rs 68,450.",legitimate,en,synthetic_legit
+"Your electricity bill of Rs 450 is generated for consumer ID 982341. Due date is 15th Oct. Pay via official portal.",legitimate,en,synthetic_legit
+"Please call me when you reach home safely.",legitimate,en,synthetic_legit
+"Thanks for the payment of Rs 500 towards groceries.",legitimate,en,synthetic_legit
+"Dear student, tomorrow is a holiday for college on account of Gandhi Jayanti.",legitimate,en,synthetic_legit
+"INR 1,200.00 debited from A/C XX3829 on 03-OCT-26 at RELIANCE FRESH via UPI. Bal: INR 15,230.00.",legitimate,en,synthetic_legit
+"Recharge of Rs 299 successful for Jio number 9876543210. 2GB/day validity 28 days.",legitimate,en,synthetic_legit
+"Uber: Your driver Ramesh in Swift Dzire (KA01AB1234) is arriving in 3 mins. Share OTP 5812 to start trip.",legitimate,en,synthetic_legit
+"Zomato: Your order from Biryani Blues is arriving in 12 minutes. Enjoy your meal!",legitimate,en,synthetic_legit
+"Blinkit: Order delivered in 8 minutes. Thank you for shopping with us.",legitimate,en,synthetic_legit
+"IRCTC: PNR 4829103948 is confirmed. Coach B3, Berth 45 (Side Lower). Departure 21:40 hrs.",legitimate,en,synthetic_legit
+"Indigo Flight 6E-204 from BLR to DEL is on time. Web check-in is open at goindigo.in.",legitimate,en,synthetic_legit
+"Your Google verification code is G-849201. Never share this code with anyone.",legitimate,en,synthetic_legit
+"WhatsApp code: 492-108. You can also tap on the link to verify your phone number.",legitimate,en,synthetic_legit
+"Dear Customer, your broadband plan of 100 Mbps will expire in 3 days. Renew via Airtel Thanks app.",legitimate,en,synthetic_legit
+"BookMyShow: Booking confirmed for 2 tickets of Inception at PVR Forum Mall on Saturday 7 PM. Booking ID: WXYZ1234.",legitimate,en,synthetic_legit
+"Hey bro, check out this lecture video on machine learning: https://youtube.com/watch?v=sample123",legitimate,en,synthetic_legit
+"Happy Birthday to you! May you achieve great success and happiness this year.",legitimate,en,synthetic_legit
+"Reminder: Parent-Teacher Meeting is scheduled for Saturday at 9:30 AM in School Auditorium.",legitimate,en,synthetic_legit
+"Dear user, your mobile data limit of 100% has been reached today as per your daily quota.",legitimate,en,synthetic_legit
+"Your water bill for meter #89342 of Rs 180 is generated. Last date to pay is 20th Oct.",legitimate,en,synthetic_legit
+"Let us catch up this weekend for dinner at 8 PM.",legitimate,en,synthetic_legit
+"Your passport application file #BLR12345678 is under review at Regional Passport Office.",legitimate,en,synthetic_legit
+"Hospital appointment with Dr. Sharma confirmed for tomorrow at 11:30 AM.",legitimate,en,synthetic_legit
+"Recharge now Jio no. 6301729415 with Rs.899 plan & get Exclusive Offer! JioHotstar + Free AI benefits from Google Gemini & 5000 GB storage + Unlimited 5G data + 2 GB/day & 20GB , Unlimited Voice, 90 Days. Use Google Pay app & stay connected. T&CA. https://gpay.app.goo.gl/yd1TrN",legitimate,en,synthetic_legit
+"Exclusive Jio offer! Recharge with Rs 349 and get 2.5GB/day + free JioCinema & unlimited 5G. Click jio.com/recharge to pay.",legitimate,en,synthetic_legit
+"Special offer on your Airtel connection: Get 3GB/day + free Disney+Hotstar on Rs 839 recharge. Validity 84 days. Open Airtel Thanks app.",legitimate,en,synthetic_legit
+"Dear Vodafone-Idea customer, get 5GB extra data free on your recharge of Rs 299 today. Visit myvi.in/offer.",legitimate,en,synthetic_legit
+"Google Pay Offer: Pay your electricity bill or mobile recharge on GPay and win up to Rs 100 cashback scratch card. Open https://gpay.app.goo.gl/rewards",legitimate,en,synthetic_legit
+"Amazon Pay: Flat Rs 50 cashback on your DTH or Mobile recharge of Rs 199 or more. T&C apply.",legitimate,en,synthetic_legit
+"Paytm cashback offer: Recharge your metro card on Paytm app & get 10% instant discount.",legitimate,en,synthetic_legit
+"Congratulations! You have been selected for a work-from-home job with a salary of ₹45,000/month. Pay ₹1,499 registration fee today to complete your joining process.",scam,en,synthetic_india
+"Dear applicant, you are shortlisted for Amazon data entry job. Pay refundable training fee of Rs 999 to receive laptop: http://bit.ly/amazon-job-onboard",scam,en,synthetic_india
+"Work from home part-time: Earn Rs 25,000/month by reviewing products. Pay one-time kit charge of Rs 499 to start.",scam,en,synthetic_india
+"Selected for Indigo Airlines cabin crew. Deposit Rs 2,500 gate pass fee to download interview call letter: http://tinyurl.com/indigo-air-job",scam,en,synthetic_india
+"Part-time typing job: Earn Rs 1,500 daily. Pay Rs 350 security deposit to activate work portal.",scam,en,synthetic_india
+"IMPORTANT NOTICE: Your PAN details require immediate verification. Failure to verify may result in account restrictions. Submit your information today.",scam,en,synthetic_india
+"Income Tax Alert: Your PAN card is not linked with your bank account. Immediate verification required to avoid heavy penalty.",scam,en,synthetic_india
+"Mandatory Compliance: Update your Aadhaar and PAN details within 24 hours to prevent account freeze: http://tinyurl.com/pan-link-portal",scam,en,synthetic_india
+"Urgent Notice: Failure to complete KYC verification today will lead to temporary suspension of your debit card services.",scam,en,synthetic_india
+"Bank Alert: Unverified PAN detected on your savings account. Submit your PAN copy to avoid transaction restrictions.",scam,en,synthetic_india

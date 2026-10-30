@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Model checkpoints / large temp files
+*.tmp
+*.log
+
+# Streamlit run cache
+.streamlit/secrets.toml
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
